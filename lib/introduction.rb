@@ -15,7 +15,7 @@ def introduction_with_language("Cody", "Ruby")
   puts "Hello, my name is #{name}, and I am learning #{language}"
 end
 
-introduction_with_language("Cody", "Ruby")
+puts introduction_with_language 
 
 
 
