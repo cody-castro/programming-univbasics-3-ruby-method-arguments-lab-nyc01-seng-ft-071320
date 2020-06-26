@@ -11,7 +11,7 @@ end
 
 introduction("Spidey")
 
-def introduction_with_language(name, language)
+def introduction_with_language("Cody", "Ruby")
   puts "Hello, my name is #{name}, and I am learning #{language}"
 end
 
